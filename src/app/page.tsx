@@ -18,6 +18,7 @@ export default function Home() {
         <Moments />
         <TeamMembers />
         <Strengths />
+        <Commonalities />
         <Differences />
         <Commonalities />
         <SocialLinks />

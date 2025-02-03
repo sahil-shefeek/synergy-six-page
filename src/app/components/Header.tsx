@@ -22,15 +22,6 @@ export default function Header() {
           <h1 className="text-2xl font-bold text-primary">Synergy Six</h1>
         </div>
         <div className="flex items-center space-x-4">
-          <Button variant="ghost" className="text-primary">
-            About
-          </Button>
-          <Button variant="ghost" className="text-primary">
-            Team
-          </Button>
-          <Button variant="ghost" className="text-primary">
-            Contact
-          </Button>
           <Button variant="ghost" size="icon" onClick={toggleTheme}>
             {theme === "light" ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" />}
           </Button>
