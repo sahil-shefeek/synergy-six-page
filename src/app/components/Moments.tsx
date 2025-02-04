@@ -5,25 +5,25 @@ import Image from "next/image"
 
 const moments = [
   {
-    title: "Team Formation",
-    description: "The day we came together as Synergy Six",
-    image: "/placeholder.svg?height=400&width=600",
+    title: "Team Power",
+    description: "Our second day together as Synergy Six",
+    image: "/moments/professional-outlook.jpg",
   },
-  {
-    title: "First Project",
-    description: "Working on our first collaborative project",
-    image: "/placeholder.svg?height=400&width=600",
-  },
-  {
-    title: "Team Building",
-    description: "Our team building activities and adventures",
-    image: "/placeholder.svg?height=400&width=600",
-  },
-  {
-    title: "Achievements",
-    description: "Celebrating our team's successes",
-    image: "/placeholder.svg?height=400&width=600",
-  },
+  // {
+  //   title: "First Project",
+  //   description: "Working on our first collaborative project",
+  //   image: "/placeholder.svg?height=400&width=600",
+  // },
+  // {
+  //   title: "Team Building",
+  //   description: "Our team building activities and adventures",
+  //   image: "/placeholder.svg?height=400&width=600",
+  // },
+  // {
+  //   title: "Achievements",
+  //   description: "Celebrating our team's successes",
+  //   image: "/placeholder.svg?height=400&width=600",
+  // },
   // Add more moments as needed
 ]
 
